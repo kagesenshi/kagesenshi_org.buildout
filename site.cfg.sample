@@ -1,0 +1,4 @@
+[site]
+instance1-address = 127.0.0.1:8071
+instance2-address = 127.0.0.1:8072
+zeoserver-address = 127.0.0.1:8301
